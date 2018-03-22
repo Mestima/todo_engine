@@ -2,7 +2,7 @@
 #simple todo list
 
 
-*How to set up*
+*How to set up:*
 
 create database
 
